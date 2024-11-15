@@ -1,6 +1,6 @@
 # CircuitNet
 
-This repository contains the implementation of CircuitNet, a novel neural network architecture inspired by biological neural circuits. CircuitNet models universal circuit motifs through a combination of product and linear transformations, enabling it to capture complex neural interactions like feed-forward, mutual, feed-back, and lateral inhibition patterns.
+This repository contains an opensource implementation of the ICML 2023 Spotlight paper: CircuitNet: A Generic Neural Network to Realize Universal Circuit Motif Modeling". CircuitNet models universal circuit motifs through a combination of product and linear transformations, enabling it to capture complex neural interactions like feed-forward, mutual, feed-back, and lateral inhibition patterns.
 
 ## Overview
 
