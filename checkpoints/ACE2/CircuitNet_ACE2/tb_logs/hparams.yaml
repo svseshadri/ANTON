@@ -1,0 +1,12 @@
+T_max: 136
+activation: clip_sin
+batch_size: 16
+eta_min: 9.042713531820194e-09
+gradient_clip_val: 8.55759990993581
+input_dim: 1280
+learning_rate: 1.4982696171983996e-06
+max_epochs: 110
+num_cmus: 5
+num_iterations: 8
+num_neurons: 114
+num_ports: 40

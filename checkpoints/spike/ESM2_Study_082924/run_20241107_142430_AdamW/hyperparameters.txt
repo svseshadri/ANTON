@@ -1,0 +1,13 @@
+input_dim: 1280
+batch_size: 16
+num_cmus: 5
+num_neurons: 114
+num_ports: 40
+num_iterations: 8
+learning_rate: 1.4982696171983996e-05
+max_epochs: 200
+gradient_clip_val: 8.557599909935817
+activation: clip_sin
+weight_decay: 0.01
+T_max: 136
+eta_min: 9.042713531820194e-09

@@ -1,0 +1,7 @@
+input_dim: 1280
+batch_size: 16
+learning_rate: 1.1596396728105288e-05
+max_epochs: 110
+gradient_clip_val: 0.8610360884285442
+T_max: 88
+eta_min: 6.2631475968196166e-09
